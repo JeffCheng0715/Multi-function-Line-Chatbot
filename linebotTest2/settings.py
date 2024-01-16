@@ -21,10 +21,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'ple$ok7v_vs=jbg^e0t=z59)j@!ct=e8)=oi_!xiz)s=1*$oy4'
+SECRET_KEY = ''
 #lucky
-LINE_CHANNEL_ACCESS_TOKEN = 'GGYPmLl3ISJ5MO0H7M+iCqsosixFsiv6wHsmTGG8aAObqsrp9G5aY/dDhTrGLPLv9VNBtXTWXqsKFbPqFi/u4bMZ+OYnUI/GDoFutqbFk5YbdKSmhAbamqMbPeuA/B38bQLTrBtBd4ioTQNVGGe43AdB04t89/1O/w1cDnyilFU='
-LINE_CHANNEL_SECRET = '5f0cc24fa6ec87fffeb28477de057e6f'
+LINE_CHANNEL_ACCESS_TOKEN = ''
+LINE_CHANNEL_SECRET = ''
 
 #testbot
 # LINE_CHANNEL_ACCESS_TOKEN = 'VkBvJhcP6Abgw/n2s0MEWyDDgQOBoFC9MEeouCUI+wqoTMCEnw/SaP88taaWa8vVb+IafZAgsXJhcj0B5oLTPv3b9YfSBuLLAql8p76dTrA98AmyNNvqhYEc2Vm2YcmyZgzTk+ZrZyQrmOHhvy5zngdB04t89/1O/w1cDnyilFU='
